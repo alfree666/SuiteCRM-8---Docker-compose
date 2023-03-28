@@ -1,4 +1,4 @@
-# suiteCRM 8
+# SuiteCRM 8
 
 SuiteCRM 8 - Docker-compose
 
